@@ -1,5 +1,5 @@
 # Metahuman-Downloader
-A Simple Metahuman Downloader for Unearl Engine 5
+A Simple Metahuman Downloader for Unreal Engine 5
 
 # How to use?
 1. first download it from [here](https://github.com/l3est/Metahuman-Downloader/releases/tag/Release).
