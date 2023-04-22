@@ -2,7 +2,7 @@
 A Simple Metahuman Downloader for Unearl Engine 5
 
 # How to use?
-1. first download it from [here](https://github.com/l3est/Metahuman-Downloader/releases/tag/Release)
+1. first download it from [here](https://github.com/l3est/Metahuman-Downloader/releases/tag/Release).
 2. run MetaHuman Downloader.exe
 3. open quixel.com and login. choose any metahuman you want
 4. copy the assetId parameter from link (the part I highlighted here) and paste in in Metahuman Downloader:   ![image](https://user-images.githubusercontent.com/8002505/233785847-4fac037f-db95-42de-a0ec-c6c9282ef2ee.png)
@@ -13,7 +13,7 @@ A Simple Metahuman Downloader for Unearl Engine 5
 ![image](https://user-images.githubusercontent.com/8002505/233786415-5989e4f7-e834-47f5-91d7-50b06199431e.png)  
 7. open a text editor like notepad and paste the text you just copied. find the "authorization" field and copy the text that I highlighted with **yellow** color. DON'T copy the "" before and after the text.  
 ![image](https://user-images.githubusercontent.com/8002505/233786536-b931285f-c88b-4d42-b907-2c5ff1a7a3be.png)  
-8. paste the code in *Metahuman Downloader (in the big text area).  
+8. paste the code in **Metahuman Downloader**'s big text box.  
 9. choose if the metahuman you're trying to download is public or private. private ones are the ones you've created and you can see them in [here](https://quixel.com/megascans/metahumans?category=my_metahumans_ue5). rest of them are public.  
 10. now click **Get Link**. the link will be copied to your clipboard. you can paste it in your Web Browser or Download Manager.  
 ![image](https://user-images.githubusercontent.com/8002505/233787371-32cbb268-c3ac-4f21-842b-f582872444a4.png)  
