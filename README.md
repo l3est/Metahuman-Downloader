@@ -13,12 +13,15 @@ A Simple Metahuman Downloader for Unearl Engine 5
 ![image](https://user-images.githubusercontent.com/8002505/233786415-5989e4f7-e834-47f5-91d7-50b06199431e.png)
 7. open a text editor like notepad and paste the text you just copied. find the "authorization" field and copy the text that I highlighted with **yellow** color. DON'T copy the "" before and after the text.
 ![image](https://user-images.githubusercontent.com/8002505/233786536-b931285f-c88b-4d42-b907-2c5ff1a7a3be.png)
-8. paste the code in *Metahuman Downloader (in the big text area).
+8. paste the code in *Metahuman Downloader (in the big text area). it should look something link this:
+![image](https://user-images.githubusercontent.com/8002505/233787371-32cbb268-c3ac-4f21-842b-f582872444a4.png)
 9. choose if the metahuman you're trying to download is public or private. private ones are the ones you've created and you can see them in [here](https://quixel.com/megascans/metahumans?category=my_metahumans_ue5). rest of them are public.
 10. now click **Get Link**. the link will be copied to your clipboard. you can paste it in your Web Browser or Download Manager.
 11. After downloading the zip file extract it and open the folder, you'll see a **MetaHumans** folder.
 ![image](https://user-images.githubusercontent.com/8002505/233787113-66982d24-d492-413e-af5b-13431215ff6c.png)
 12. Close Unreal Engine and Copy that MetaHumans folder into the project you want (replace **YOUR_USERNAME** with your windows username and **PROJECT_NAME** with your Unreal Engine project name.) `C:\Users\YOUR_USERNAME\Documents\Unreal Projects\PROJECT_NAME\Content`
+
+![image](https://user-images.githubusercontent.com/8002505/233787475-3fced444-7ae2-4e70-ae45-35b53635d3f8.png)
 
 # How It works?
 It works by using Bridge's private API.
